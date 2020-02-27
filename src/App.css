@@ -1,0 +1,47 @@
+.header {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.tableInfo {
+  margin: auto;
+}
+table.tblRewards {
+  border: 1px solid #FFFFFF;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  border-collapse: collapse;
+}
+table.tblRewards td, table.tblRewards th {
+  border: 1px solid #FFFFFF;
+  padding: 3px 2px;
+}
+table.tblRewards tbody td {
+  font-size: 16px;
+}
+table.tblRewards tr:nth-child(even) {
+  background: #D0E4F5;
+}
+table.tblRewards thead {
+  background: #0B6FA4;
+  border-bottom: 5px solid #FFFFFF;
+}
+table.tblRewards thead th {
+  font-size: 18px;
+  font-weight: bold;
+  color: #FFFFFF;
+  text-align: center;
+  border-left: 2px solid #FFFFFF;
+}
+table.tblRewards thead th:first-child {
+  border-left: none;
+}
+
+table.tblRewards tfoot td {
+  font-size: 16px;
+}

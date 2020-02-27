@@ -1,0 +1,402 @@
+[
+  {
+    "userId":1001,
+    "transactionDate": "2020-02-25T09:27:22.584Z",
+    "transactionAmount": 125
+  },
+  {
+    "userId": 1001,
+    "transactionDate": "2019-12-13T01:29:26.584Z",
+    "transactionAmount": 142
+  },
+  {
+    "userId": 1004,
+    "transactionDate": "2019-12-27T08:04:20.584Z",
+    "transactionAmount": 374
+  },
+  {
+    "userId": 1002,
+    "transactionDate": "2019-01-11T09:57:33.584Z",
+    "transactionAmount": 556
+  },
+  {
+    "userId": 1001,
+    "transactionDate": "2020-02-22T02:09:50.584Z",
+    "transactionAmount": 171
+  },
+  {
+    "userId": 1004,
+    "transactionDate": "2019-11-17T12:05:12.584Z",
+    "transactionAmount": 324
+  },
+  {
+    "userId": 1006,
+    "transactionDate": "2019-12-09T11:02:05.584Z",
+    "transactionAmount": 119
+  },
+  {
+    "userId": 1004,
+    "transactionDate": "2020-02-24T03:22:05.584Z",
+    "transactionAmount": 474
+  },
+  {
+    "userId": 1005,
+    "transactionDate": "2019-02-04T12:35:17.584Z",
+    "transactionAmount": 576
+  },
+  {
+    "userId": 1005,
+    "transactionDate": "2019-12-03T04:38:34.584Z",
+    "transactionAmount": 452
+  },
+  {
+    "userId": 1001,
+    "transactionDate": "2019-10-02T06:39:43.584Z",
+    "transactionAmount": 383
+  },
+  {
+    "userId": 1005,
+    "transactionDate": "2019-09-25T05:44:58.584Z",
+    "transactionAmount": 174
+  },
+  {
+    "userId": 1003,
+    "transactionDate": "2020-01-09T12:29:05.584Z",
+    "transactionAmount": 161
+  },
+  {
+    "userId": 1001,
+    "transactionDate": "2019-07-08T04:09:56.584Z",
+    "transactionAmount": 111
+  },
+  {
+    "userId": 1006,
+    "transactionDate": "2019-07-20T10:25:10.584Z",
+    "transactionAmount": 405
+  },
+  {
+    "userId": 1002,
+    "transactionDate": "2019-02-09T02:09:26.584Z",
+    "transactionAmount": 343
+  },
+  {
+    "userId": 1004,
+    "transactionDate": "2019-12-21T07:04:42.584Z",
+    "transactionAmount": 282
+  },
+  {
+    "userId": 1006,
+    "transactionDate": "2019-10-21T01:39:21.584Z",
+    "transactionAmount": 556
+  },
+  {
+    "userId": 1003,
+    "transactionDate": "2019-02-01T05:11:08.584Z",
+    "transactionAmount": 135
+  },
+  {
+    "userId": 1001,
+    "transactionDate": "2020-01-10T04:36:18.584Z",
+    "transactionAmount": 86
+  },
+  {
+    "userId": 1002,
+    "transactionDate": "2020-01-01T04:27:54.584Z",
+    "transactionAmount": 433
+  },
+  {
+    "userId": 1005,
+    "transactionDate": "2019-08-11T09:10:16.584Z",
+    "transactionAmount": 181
+  },
+  {
+    "userId": 1002,
+    "transactionDate": "2019-05-29T11:49:16.584Z",
+    "transactionAmount": 426
+  },
+  {
+    "userId": 1003,
+    "transactionDate": "2019-08-02T04:34:48.584Z",
+    "transactionAmount": 193
+  },
+  {
+    "userId": 1006,
+    "transactionDate": "2019-11-11T10:15:38.584Z",
+    "transactionAmount": 312
+  },
+  {
+    "userId": 1004,
+    "transactionDate": "2019-08-22T12:46:22.584Z",
+    "transactionAmount": 284
+  },
+  {
+    "userId": 1006,
+    "transactionDate": "2019-11-28T11:16:02.584Z",
+    "transactionAmount": 588
+  },
+  {
+    "userId": 1006,
+    "transactionDate": "2020-02-07T09:09:00.584Z",
+    "transactionAmount": 413
+  },
+  {
+    "userId": 1001,
+    "transactionDate": "2019-04-13T04:06:07.584Z",
+    "transactionAmount": 212
+  },
+  {
+    "userId": 1001,
+    "transactionDate": "2019-11-09T02:47:19.584Z",
+    "transactionAmount": 438
+  },
+  {
+    "userId": 1006,
+    "transactionDate": "2019-05-20T09:04:41.584Z",
+    "transactionAmount": 173
+  },
+  {
+    "userId": 1001,
+    "transactionDate": "2019-04-18T09:22:11.584Z",
+    "transactionAmount": 533
+  },
+  {
+    "userId": 1005,
+    "transactionDate": "2019-11-13T03:12:58.584Z",
+    "transactionAmount": 205
+  },
+  {
+    "userId": 1001,
+    "transactionDate": "2019-11-22T06:07:04.584Z",
+    "transactionAmount": 353
+  },
+  {
+    "userId": 1004,
+    "transactionDate": "2019-07-14T03:36:13.584Z",
+    "transactionAmount": 442
+  },
+  {
+    "userId": 1003,
+    "transactionDate": "2019-11-25T02:19:13.584Z",
+    "transactionAmount": 365
+  },
+  {
+    "userId": 1002,
+    "transactionDate": "2019-12-09T05:25:43.584Z",
+    "transactionAmount": 414
+  },
+  {
+    "userId": 1002,
+    "transactionDate": "2020-02-10T03:14:53.584Z",
+    "transactionAmount": 536
+  },
+  {
+    "userId": 1004,
+    "transactionDate": "2019-09-12T07:40:44.584Z",
+    "transactionAmount": 159
+  },
+  {
+    "userId": 1003,
+    "transactionDate": "2019-12-25T04:28:20.584Z",
+    "transactionAmount": 518
+  },
+  {
+    "userId": 1006,
+    "transactionDate": "2019-08-15T08:19:44.584Z",
+    "transactionAmount": 446
+  },
+  {
+    "userId": 1002,
+    "transactionDate": "2019-08-24T06:26:29.584Z",
+    "transactionAmount": 134
+  },
+  {
+    "userId": 1005,
+    "transactionDate": "2019-11-16T05:29:07.584Z",
+    "transactionAmount": 551
+  },
+  {
+    "userId": 1006,
+    "transactionDate": "2019-06-02T10:25:07.584Z",
+    "transactionAmount": 589
+  },
+  {
+    "userId": 1002,
+    "transactionDate": "2019-02-01T09:32:35.584Z",
+    "transactionAmount": 66
+  },
+  {
+    "userId": 1001,
+    "transactionDate": "2019-05-27T08:51:05.584Z",
+    "transactionAmount": 444
+  },
+  {
+    "userId": 1006,
+    "transactionDate": "2020-02-19T07:34:58.584Z",
+    "transactionAmount": 105
+  },
+  {
+    "userId": 1006,
+    "transactionDate": "2019-12-25T06:00:50.584Z",
+    "transactionAmount": 479
+  },
+  {
+    "userId": 1004,
+    "transactionDate": "2020-02-13T09:30:55.584Z",
+    "transactionAmount": 207
+  },
+  {
+    "userId": 1005,
+    "transactionDate": "2019-03-19T02:13:59.584Z",
+    "transactionAmount": 89
+  },
+  {
+    "userId": 1003,
+    "transactionDate": "2019-10-21T12:44:06.584Z",
+    "transactionAmount": 375
+  },
+  {
+    "userId": 1003,
+    "transactionDate": "2019-10-30T07:12:47.584Z",
+    "transactionAmount": 144
+  },
+  {
+    "userId": 1001,
+    "transactionDate": "2019-10-12T10:10:04.584Z",
+    "transactionAmount": 524
+  },
+  {
+    "userId": 1002,
+    "transactionDate": "2019-09-05T11:42:57.584Z",
+    "transactionAmount": 142
+  },
+  {
+    "userId": 1002,
+    "transactionDate": "2020-01-08T10:44:08.584Z",
+    "transactionAmount": 602
+  },
+  {
+    "userId": 1001,
+    "transactionDate": "2019-03-01T03:27:36.584Z",
+    "transactionAmount": 527
+  },
+  {
+    "userId": 1004,
+    "transactionDate": "2019-09-27T04:45:15.584Z",
+    "transactionAmount": 400
+  },
+  {
+    "userId": 1005,
+    "transactionDate": "2019-03-30T12:46:24.584Z",
+    "transactionAmount": 509
+  },
+  {
+    "userId": 1001,
+    "transactionDate": "2020-02-17T12:14:56.584Z",
+    "transactionAmount": 74
+  },
+  {
+    "userId": 1003,
+    "transactionDate": "2019-11-20T08:56:14.584Z",
+    "transactionAmount": 419
+  },
+  {
+    "userId": 1001,
+    "transactionDate": "2019-11-01T06:48:54.584Z",
+    "transactionAmount": 384
+  },
+  {
+    "userId": 1002,
+    "transactionDate": "2020-01-18T01:09:20.584Z",
+    "transactionAmount": 185
+  },
+  {
+    "userId": 1002,
+    "transactionDate": "2020-01-04T01:45:50.584Z",
+    "transactionAmount": 172
+  },
+  {
+    "userId": 1006,
+    "transactionDate": "2019-09-14T06:13:34.584Z",
+    "transactionAmount": 348
+  },
+  {
+    "userId": 1006,
+    "transactionDate": "2019-12-09T07:53:34.584Z",
+    "transactionAmount": 436
+  },
+  {
+    "userId": 1003,
+    "transactionDate": "2019-09-24T01:29:29.584Z",
+    "transactionAmount": 353
+  },
+  {
+    "userId": 1006,
+    "transactionDate": "2019-03-04T01:49:13.584Z",
+    "transactionAmount": 425
+  },
+  {
+    "userId": 1001,
+    "transactionDate": "2019-07-27T05:21:42.584Z",
+    "transactionAmount": 134
+  },
+  {
+    "userId": 1006,
+    "transactionDate": "2019-07-01T07:55:37.584Z",
+    "transactionAmount": 554
+  },
+  {
+    "userId": 1005,
+    "transactionDate": "2020-02-03T07:42:36.584Z",
+    "transactionAmount": 577
+  },
+  {
+    "userId": 1005,
+    "transactionDate": "2019-06-29T12:05:54.584Z",
+    "transactionAmount": 197
+  },
+  {
+    "userId": 1006,
+    "transactionDate": "2019-06-09T06:17:55.584Z",
+    "transactionAmount": 457
+  },
+  {
+    "userId": 1002,
+    "transactionDate": "2020-01-29T12:02:36.584Z",
+    "transactionAmount": 223
+  },
+  {
+    "userId": 1004,
+    "transactionDate": "2019-02-21T01:05:57.584Z",
+    "transactionAmount": 325
+  },
+  {
+    "userId": 1004,
+    "transactionDate": "2019-10-01T04:45:28.584Z",
+    "transactionAmount": 186
+  },
+  {
+    "userId": 1002,
+    "transactionDate": "2019-02-21T06:24:34.584Z",
+    "transactionAmount": 183
+  },
+  {
+    "userId": 1004,
+    "transactionDate": "2020-01-27T10:00:55.584Z",
+    "transactionAmount": 345
+  },
+  {
+    "userId": 1004,
+    "transactionDate": "2019-07-08T04:57:43.584Z",
+    "transactionAmount": 594
+  },
+  {
+    "userId": 1006,
+    "transactionDate": "2019-10-27T10:05:57.584Z",
+    "transactionAmount": 505
+  },
+  {
+    "userId": 1001,
+    "transactionDate": "2019-08-26T01:07:52.584Z",
+    "transactionAmount": 67
+  }
+]
